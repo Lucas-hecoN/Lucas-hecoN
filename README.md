@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00F754&center=true&vCenter=true&repeat=&random=&width=1200&lines=Hello%2C+my+name+is+Lucas+Pacheco;I'm+26+years+old;I'm+an+in+learning+software+developer;I'm+from+Brazil)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00F754&center=true&vCenter=true&repeat=true&random=&width=1200&lines=Hello%2C+my+name+is+Lucas+Pacheco;I'm+26+years+old;I'm+an+in+learning+software+developer;I'm+from+Brazil)](https://git.io/typing-svg) 
   
 </div>
 
