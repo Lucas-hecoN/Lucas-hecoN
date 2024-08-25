@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  
+  ![capa-repositorio](https://github.com/user-attachments/assets/16469865-946f-4570-8de9-1d099ded995d)
+  
 </div>
 
 ###
