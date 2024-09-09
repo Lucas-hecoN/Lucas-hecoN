@@ -1,6 +1,6 @@
 <div align="center">
-  
-  ![capa-repositorio](https://github.com/user-attachments/assets/16469865-946f-4570-8de9-1d099ded995d)
+
+  # Welcome To My Repository!
   
 </div>
 
@@ -34,8 +34,10 @@
   🌐 Socials:
 </div><br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-
+  <a href="https://www.linkedin.com/in/lucas-nascimentodev/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />  
+  </a>
+  
   <a href="https://instagram.com/_lucaspacheco16" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
